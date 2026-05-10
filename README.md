@@ -71,7 +71,7 @@
 </ul>
 
 
-## 👨‍💻 Author :-
+## 👨‍💻 Author
 
 **Raj Shivade**  
 📘 [LinkedIn](http://www.linkedin.com/in/raj-shivade25)  
