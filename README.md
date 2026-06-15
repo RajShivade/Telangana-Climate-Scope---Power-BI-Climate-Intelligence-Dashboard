@@ -1,4 +1,4 @@
-<h1>🌦️ CloudScript Telangana – Power BI Climate Intelligence Dashboard</h1>
+<h1>🌦️ Telangana Climate-Scope - Power BI Climate Intelligence Dashboard</h1>
 
 <h2>🔍 Overview</h2>
 <p><strong>CloudScript Telangana</strong> is a data-driven climate intelligence dashboard built using Power BI. It visualizes detailed weather data from 2021 to 2024, covering Telangana’s districts and mandals. This tool provides insights into rainfall, temperature, humidity, and wind speed trends to support data-informed decisions in agriculture, urban planning, disaster management, and policy-making.</p>
